@@ -1,1 +1,93 @@
-
+[
+  {
+    "id": "bass-acoustic-fbg29",
+    "displayName": "Bass Acoustic Bass",
+    "filename": "Bass Acoustic Bass FBG29 MW.sf2",
+    "category": "bass",
+    "delivery": "bundled",
+    "sizeBytes": 7161040,
+    "summary": "Starter acoustic bass.",
+    "remoteURL": null,
+    "version": null,
+    "sha256": null,
+    "isStarterRecommended": true
+  },
+  {
+    "id": "guitar-spanish-classical",
+    "displayName": "Guitar Spanish Classical",
+    "filename": "Guitar Spanish Classical.sf2",
+    "category": "guitar",
+    "delivery": "bundled",
+    "sizeBytes": 19406848,
+    "summary": "Warm nylon guitar.",
+    "remoteURL": null,
+    "version": null,
+    "sha256": null,
+    "isStarterRecommended": true
+  },
+  {
+    "id": "piano-fm",
+    "displayName": "Piano FM",
+    "filename": "Piano FM.sf2",
+    "category": "piano",
+    "delivery": "bundled",
+    "sizeBytes": 43008000,
+    "summary": "Compact bundled piano.",
+    "remoteURL": null,
+    "version": null,
+    "sha256": null,
+    "isStarterRecommended": true
+  },
+  {
+    "id": "piano-upright",
+    "displayName": "Piano Upright",
+    "filename": "Piano Upright.sf2",
+    "category": "piano",
+    "delivery": "bundled",
+    "sizeBytes": 57344000,
+    "summary": "Character upright piano.",
+    "remoteURL": null,
+    "version": null,
+    "sha256": null,
+    "isStarterRecommended": false
+  },
+  {
+    "id": "synth-lead",
+    "displayName": "Synth Lead",
+    "filename": "Synth Lead.sf2",
+    "category": "synth",
+    "delivery": "bundled",
+    "sizeBytes": 8290304,
+    "summary": "Starter lead synth.",
+    "remoteURL": null,
+    "version": null,
+    "sha256": null,
+    "isStarterRecommended": true
+  },
+  {
+    "id": "piano-fb",
+    "displayName": "Piano FB",
+    "filename": "Piano FB.sf2",
+    "category": "piano",
+    "delivery": "downloadable",
+    "sizeBytes": 105906176,
+    "summary": "Large downloadable piano.",
+    "remoteURL": "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v1/Piano.FB.sf2",
+    "version": "1.0.0",
+    "sha256": "b2af9626e75d62c8320d0c4475543085a440acb1c7e27e1260ee8b3661fa5e8b",
+    "isStarterRecommended": false
+  },
+  {
+    "id": "piano-eastwest-yamaha-c7",
+    "displayName": "Piano EastWest Yamaha C7",
+    "filename": "Piano EastWest Yamaha C7.sf2",
+    "category": "piano",
+    "delivery": "downloadable",
+    "sizeBytes": 433061888,
+    "summary": "Flagship concert piano.",
+    "remoteURL": "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v1/Piano.EastWest.Yamaha.C7.sf2",
+    "version": "1.0.0",
+    "sha256": "c865f2b2e88580ac7bd87e0c14aa065d967faf6f22b9851edf5155d40af6b1ee",
+    "isStarterRecommended": false
+  }
+]
