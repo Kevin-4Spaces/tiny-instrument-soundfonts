@@ -10,6 +10,7 @@
     "remoteURL": null,
     "version": null,
     "sha256": null,
+    "attribution": null,
     "isStarterRecommended": true
   },
   {
@@ -23,6 +24,7 @@
     "remoteURL": null,
     "version": null,
     "sha256": null,
+    "attribution": null,
     "isStarterRecommended": true
   },
   {
@@ -36,6 +38,7 @@
     "remoteURL": null,
     "version": null,
     "sha256": null,
+    "attribution": null,
     "isStarterRecommended": true
   },
   {
@@ -49,6 +52,7 @@
     "remoteURL": null,
     "version": null,
     "sha256": null,
+    "attribution": null,
     "isStarterRecommended": false
   },
   {
@@ -62,6 +66,7 @@
     "remoteURL": null,
     "version": null,
     "sha256": null,
+    "attribution": null,
     "isStarterRecommended": true
   },
   {
@@ -75,6 +80,16 @@
     "remoteURL": "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v1/Piano.FB.sf2",
     "version": "1.0.0",
     "sha256": "b2af9626e75d62c8320d0c4475543085a440acb1c7e27e1260ee8b3661fa5e8b",
+    "attribution": {
+      "creatorName": "Piotr Barcz",
+      "creatorURL": null,
+      "sourceName": "FreePats - Old Piano FB",
+      "sourceURL": "https://freepats.zenvoid.org/Piano/honky-tonk-piano.html",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attributionText": "Recorded by Piotr Barcz from a Francis Bacon player piano and published by FreePats under CC0 1.0.",
+      "requiresAttribution": false
+    },
     "isStarterRecommended": false
   },
   {
@@ -88,6 +103,16 @@
     "remoteURL": "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v1/Piano.EastWest.Yamaha.C7.sf2",
     "version": "1.0.0",
     "sha256": "c865f2b2e88580ac7bd87e0c14aa065d967faf6f22b9851edf5155d40af6b1ee",
+    "attribution": {
+      "creatorName": null,
+      "creatorURL": null,
+      "sourceName": "Musical Artifacts",
+      "sourceURL": "https://musical-artifacts.com/artifacts/6962",
+      "licenseName": null,
+      "licenseURL": null,
+      "attributionText": null,
+      "requiresAttribution": false
+    },
     "isStarterRecommended": false
   }
 ]
