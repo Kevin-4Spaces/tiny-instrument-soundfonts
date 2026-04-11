@@ -104,14 +104,14 @@
     "version": "1.0.0",
     "sha256": "c865f2b2e88580ac7bd87e0c14aa065d967faf6f22b9851edf5155d40af6b1ee",
     "attribution": {
-      "creatorName": null,
+      "creatorName": "陈俊豪",
       "creatorURL": null,
       "sourceName": "Musical Artifacts",
       "sourceURL": "https://musical-artifacts.com/artifacts/6962",
-      "licenseName": null,
-      "licenseURL": null,
-      "attributionText": null,
-      "requiresAttribution": false
+      "licenseName": "Creative Commons Attribution 3.0 Unported",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "attributionText": "Created by 陈俊豪. Attribution is required under CC BY 3.0 Unported.",
+      "requiresAttribution": true
     },
     "isStarterRecommended": false
   }
