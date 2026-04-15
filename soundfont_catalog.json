@@ -42,6 +42,28 @@
   },
   {
     "attribution" : {
+      "attributionText" : "\"Axolotl Grand Piano\" by Fireninja712 Official. Published under WTFPL 2.0.",
+      "creatorName" : "Fireninja712 Official",
+      "licenseName" : "WTFPL – Do What The Fuck You Want To Public License 2.0",
+      "licenseURL" : "http://www.wtfpl.net/",
+      "requiresAttribution" : false,
+      "sourceName" : "Musical Artifacts"
+    },
+    "availability" : "available",
+    "category" : "piano",
+    "delivery" : "downloadable",
+    "displayName" : "Axolotl Grand Piano",
+    "filename" : "Axolotl Grand Piano.sf2",
+    "id" : "piano-axolotl-grand",
+    "isStarterRecommended" : false,
+    "remoteURL" : "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v2/Axolotl.Grand.Piano.sf2",
+    "sha256" : "5b8a5478d6354d1e39a992a4654f7c60ae563b41d1ea2d5f20241d6723b82030",
+    "sizeBytes" : 78629288,
+    "summary" : "Realistic grand piano sampled from a Yamaha piano.",
+    "version" : "1.0.0"
+  },
+  {
+    "attribution" : {
       "attributionText" : "Created by 陈俊豪. Attribution is required under CC BY 3.0 Unported.",
       "creatorName" : "陈俊豪",
       "licenseName" : "Creative Commons Attribution 3.0 Unported",
@@ -96,6 +118,29 @@
     "isStarterRecommended" : true,
     "sizeBytes" : 43008000,
     "summary" : "Compact bundled piano."
+  },
+  {
+    "attribution" : {
+      "attributionText" : "\"Fireninja's Kayserburg Piano\" by Fireninja712 Official, published on Musical Artifacts under CC BY 3.0 Unported.",
+      "creatorName" : "Fireninja712 Official",
+      "licenseName" : "Creative Commons Attribution 3.0 Unported",
+      "licenseURL" : "https://creativecommons.org/licenses/by/3.0/",
+      "requiresAttribution" : true,
+      "sourceName" : "Musical Artifacts",
+      "sourceURL" : "https://musical-artifacts.com/artifacts/5536"
+    },
+    "availability" : "available",
+    "category" : "piano",
+    "delivery" : "downloadable",
+    "displayName" : "Kayserburg Piano",
+    "filename" : "Fireninja_s_Kayserburg_Piano.sf2",
+    "id" : "piano-kayserburg",
+    "isStarterRecommended" : false,
+    "remoteURL" : "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v2/Fireninja_s_Kayserburg_Piano.sf2",
+    "sha256" : "5ba960f3288f0be266a4c17a41fddbdfcf82ac08f5e981ee0029f51fa335d2cb",
+    "sizeBytes" : 108869764,
+    "summary" : "Realistic 24-bit sampled Kayserburg grand piano.",
+    "version" : "1.0.0"
   },
   {
     "availability" : "available",
