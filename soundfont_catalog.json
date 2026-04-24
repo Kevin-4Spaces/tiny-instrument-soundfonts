@@ -21,13 +21,16 @@
     },
     "availability" : "available",
     "category" : "brass",
-    "delivery" : "bundled",
+    "delivery" : "downloadable",
     "displayName" : "Bright Trombone",
     "filename" : "BrightTrombone.sf2",
     "id" : "brass-trombone-bright",
     "isStarterRecommended" : false,
+    "remoteURL" : "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v2/BrightTrombone.sf2",
+    "sha256" : "fe86eba63442698660b3bee523fd85c041ce73818ca6f5b4ec46907b461d98d6",
     "sizeBytes" : 5939070,
-    "summary" : "Trombone sampled from a Yamaha Xeno."
+    "summary" : "Trombone sampled from a Yamaha Xeno.",
+    "version" : "1.0.0"
   },
   {
     "availability" : "available",
@@ -175,12 +178,15 @@
     },
     "availability" : "available",
     "category" : "world",
-    "delivery" : "bundled",
+    "delivery" : "downloadable",
     "displayName" : "Requinto Guitar",
     "filename" : "Requinto_de_adrian_rios.sf2",
     "id" : "world-requinto-guitar",
     "isStarterRecommended" : false,
+    "remoteURL" : "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v2/Requinto_de_adrian_rios.sf2",
+    "sha256" : "8acafac017c0be1acd5c74f2b4a21f89db688f402767f101fc8bf863befdd6fb",
     "sizeBytes" : 7999658,
-    "summary" : "Nylon requinto guitar for bolero music."
+    "summary" : "Nylon requinto guitar for bolero music.",
+    "version" : "1.0.0"
   }
 ]
