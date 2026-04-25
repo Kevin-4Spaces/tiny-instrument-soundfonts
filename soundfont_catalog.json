@@ -33,6 +33,46 @@
     "version" : "1.0.0"
   },
   {
+    "attribution" : {
+      "attributionText" : "\"Celeste Soundfont\" by Daniel Militello. Attribution is required under CC BY 3.0 Unported.",
+      "creatorName" : "Daniel Militello",
+      "licenseName" : "Creative Commons Attribution 3.0 Unported",
+      "licenseURL" : "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "requiresAttribution" : true,
+      "sourceName" : "Musical Artifacts",
+      "sourceURL" : "https://musical-artifacts.com/artifacts/2585"
+    },
+    "availability" : "available",
+    "category" : "percussion",
+    "delivery" : "bundled",
+    "displayName" : "Celesta",
+    "filename" : "Celesta_Tuned_Denoised_Mix.sf2",
+    "id" : "celesta-tuned-denoised",
+    "isStarterRecommended" : false,
+    "sizeBytes" : 66290850,
+    "summary" : "Tuned and denoised celesta."
+  },
+  {
+    "attribution" : {
+      "attributionText" : "\"Alto Saxophone sf2\" by HGC Production. Attribution is required under CC BY 3.0 Unported.",
+      "creatorName" : "HGC Production",
+      "licenseName" : "Creative Commons Attribution 3.0 Unported",
+      "licenseURL" : "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "requiresAttribution" : true,
+      "sourceName" : "Musical Artifacts",
+      "sourceURL" : "https://musical-artifacts.com/artifacts/5695"
+    },
+    "availability" : "available",
+    "category" : "woodwinds",
+    "delivery" : "bundled",
+    "displayName" : "Alto Sax",
+    "filename" : "GC_Alto_Sax.sf2",
+    "id" : "gc-alto-sax",
+    "isStarterRecommended" : false,
+    "sizeBytes" : 4298150,
+    "summary" : "Expressive alto saxophone."
+  },
+  {
     "availability" : "available",
     "category" : "guitar",
     "delivery" : "bundled",
@@ -42,6 +82,26 @@
     "isStarterRecommended" : true,
     "sizeBytes" : 19406848,
     "summary" : "Warm nylon guitar."
+  },
+  {
+    "attribution" : {
+      "attributionText" : "\"M-Clean Guitar\" by Yingchun Soul, FreePats, Karoryfer. Released under CC0 1.0.",
+      "creatorName" : "Yingchun Soul, FreePats, Karoryfer",
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "requiresAttribution" : false,
+      "sourceName" : "Musical Artifacts",
+      "sourceURL" : "https://musical-artifacts.com/artifacts/8113"
+    },
+    "availability" : "available",
+    "category" : "guitar",
+    "delivery" : "bundled",
+    "displayName" : "M-Clean Guitar",
+    "filename" : "M-Clean_Guitar.sf2",
+    "id" : "m-clean-guitar",
+    "isStarterRecommended" : false,
+    "sizeBytes" : 20877122,
+    "summary" : "Electric clean guitar with MegaVoice map."
   },
   {
     "attribution" : {
@@ -166,6 +226,29 @@
     "isStarterRecommended" : true,
     "sizeBytes" : 8290304,
     "summary" : "Starter lead synth."
+  },
+  {
+    "attribution" : {
+      "attributionText" : "\"Violin LDK\" by Fernando A. Martin. Attribution is required under CC BY 3.0 Unported.",
+      "creatorName" : "Fernando A. Martin",
+      "licenseName" : "Creative Commons Attribution 3.0 Unported",
+      "licenseURL" : "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "requiresAttribution" : true,
+      "sourceName" : "Musical Artifacts",
+      "sourceURL" : "https://musical-artifacts.com/artifacts/1052"
+    },
+    "availability" : "available",
+    "category" : "strings",
+    "delivery" : "downloadable",
+    "displayName" : "Violin LDK",
+    "filename" : "Violin_LDK1609.sf2",
+    "id" : "violin-ldk1609",
+    "isStarterRecommended" : false,
+    "remoteURL" : "https://github.com/Kevin-4Spaces/tiny-instrument-soundfonts/releases/download/soundfonts-v2/Violin_LDK1609.sf2",
+    "sha256" : "9251167d54739864b19683f56d1f328d5bb79cd4881337c57cfd2ca59b858461",
+    "sizeBytes" : 289736048,
+    "summary" : "Realistic solo violin with multiple articulations and legato.",
+    "version" : "1.0.0"
   },
   {
     "attribution" : {
