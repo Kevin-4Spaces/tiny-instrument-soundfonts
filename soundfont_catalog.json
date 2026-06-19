@@ -1,16 +1,5 @@
 [
   {
-    "availability" : "available",
-    "category" : "bass",
-    "delivery" : "bundled",
-    "displayName" : "Bass Acoustic Bass",
-    "filename" : "Bass Acoustic Bass FBG29 MW.sf2",
-    "id" : "bass-acoustic-fbg29",
-    "isStarterRecommended" : true,
-    "sizeBytes" : 7161040,
-    "summary" : "Starter acoustic bass."
-  },
-  {
     "attribution" : {
       "attributionText" : "\"Trombone.sf2 V.0.4\" by Guy. Published under WTFPL 2.0.",
       "creatorName" : "Guy",
